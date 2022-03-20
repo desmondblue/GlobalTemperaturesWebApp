@@ -1,0 +1,1 @@
+database_path = "./Database/global_land_temp_db.db"
