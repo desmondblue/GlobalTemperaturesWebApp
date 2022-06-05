@@ -16,9 +16,6 @@ The backend is developed in the typical MVC framework to expose the REST APIs fo
 2. The backend and database is not dockerized hence may lead to portability issues.
 3. Inbuilt server is not robust enough for production servers need deployment helper to deploy on production servers.
 
-##Time taken for completion: 2 hours
-##Challenges Faced: Dockerization of backend and databse was not achieved since I have not worked with dockers.
-
 ##Link for dataset: (https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data?select=GlobalLandTemperaturesByCity.csv)
 
 ##Steps to launch the application:
